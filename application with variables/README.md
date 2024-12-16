@@ -8,6 +8,7 @@ this is the second project for Patika
   3. prints out the user information and the new price after the discount
 # How to use
   1. simply copy the repository https://github.com/kareem221215/patika-projects.git
-  2. Cd to application with variables file
-  3. finally run the project
+  2. On the Visual studio Git tab clone the repository and paste the copied repository in step one
+  3. Cd to application with variables file
+  4. finally run the project
 # happy coding 😊
