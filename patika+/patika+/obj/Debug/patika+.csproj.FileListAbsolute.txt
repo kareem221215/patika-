@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\patika+\patika+\bin\Debug\patika+.exe.config
+C:\Users\LENOVO\source\repos\patika+\patika+\bin\Debug\patika+.exe
+C:\Users\LENOVO\source\repos\patika+\patika+\bin\Debug\patika+.pdb
+C:\Users\LENOVO\source\repos\patika+\patika+\obj\Debug\patika+.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\patika+\patika+\obj\Debug\patika+.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\patika+\patika+\obj\Debug\patika+.exe
+C:\Users\LENOVO\source\repos\patika+\patika+\obj\Debug\patika+.pdb
