@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\application with variables\application with variables\bin\Debug\application with variables.exe.config
+C:\Users\LENOVO\source\repos\application with variables\application with variables\bin\Debug\application with variables.exe
+C:\Users\LENOVO\source\repos\application with variables\application with variables\bin\Debug\application with variables.pdb
+C:\Users\LENOVO\source\repos\application with variables\application with variables\obj\Debug\application with variables.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\application with variables\application with variables\obj\Debug\application with variables.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\application with variables\application with variables\obj\Debug\application with variables.exe
+C:\Users\LENOVO\source\repos\application with variables\application with variables\obj\Debug\application with variables.pdb
