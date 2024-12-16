@@ -27,6 +27,7 @@ namespace application_with_variables
             long total = First_product + Second_product; // calculates the total prices  of the 2 products
             double discount = total * 0.1; // 10% discount is calculated
             double new_total = total - discount; //final price after the dicount is calculated
+            // used double for both discount and new_total variables so that in case theres a decimal number itll  still work
             // prints the final output
             Console.WriteLine(First_name + Last_name + " Is registered with ID numbered " + TC);
             Console.WriteLine("A message has been sent to this number: " + P_Number);
