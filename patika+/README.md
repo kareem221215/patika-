@@ -1,2 +1,3 @@
 # patika+
-this is a repository for all my ptika+ projects
+this is the repository for all my patika+ projects
+
