@@ -1,6 +1,7 @@
 # patika+
 first patika project
 # Output
+simple code to output the name, surname, and why i decided to join patika+
 ![image](https://github.com/user-attachments/assets/f789e7d0-814c-40e8-b063-91da8f212de9)
 # How to run
   1. simply copy the repository https://github.com/kareem221215/patika-.git
