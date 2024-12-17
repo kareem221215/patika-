@@ -1,0 +1,6 @@
+which is  better
+between switch and if statments switch case is  better cause of:
+1. less time complexity (program runs faster)
+2. can be read easier
+3. you can delete or add cases without needing to change anything else
+4. easier to use

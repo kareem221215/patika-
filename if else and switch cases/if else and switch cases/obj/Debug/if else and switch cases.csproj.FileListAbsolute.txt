@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\if else and switch cases\if else and switch cases\bin\Debug\if else and switch cases.exe.config
+C:\Users\LENOVO\source\repos\if else and switch cases\if else and switch cases\bin\Debug\if else and switch cases.exe
+C:\Users\LENOVO\source\repos\if else and switch cases\if else and switch cases\bin\Debug\if else and switch cases.pdb
+C:\Users\LENOVO\source\repos\if else and switch cases\if else and switch cases\obj\Debug\if else and switch cases.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\if else and switch cases\if else and switch cases\obj\Debug\if else and switch cases.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\if else and switch cases\if else and switch cases\obj\Debug\if else and switch cases.exe
+C:\Users\LENOVO\source\repos\if else and switch cases\if else and switch cases\obj\Debug\if else and switch cases.pdb
