@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\if else\if else\bin\Debug\if else.exe.config
+C:\Users\LENOVO\source\repos\if else\if else\bin\Debug\if else.exe
+C:\Users\LENOVO\source\repos\if else\if else\bin\Debug\if else.pdb
+C:\Users\LENOVO\source\repos\if else\if else\obj\Debug\if else.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\if else\if else\obj\Debug\if else.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\if else\if else\obj\Debug\if else.exe
+C:\Users\LENOVO\source\repos\if else\if else\obj\Debug\if else.pdb
