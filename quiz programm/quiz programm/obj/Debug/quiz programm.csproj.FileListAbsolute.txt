@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\quiz programm\quiz programm\bin\Debug\quiz programm.exe.config
+C:\Users\LENOVO\source\repos\quiz programm\quiz programm\bin\Debug\quiz programm.exe
+C:\Users\LENOVO\source\repos\quiz programm\quiz programm\bin\Debug\quiz programm.pdb
+C:\Users\LENOVO\source\repos\quiz programm\quiz programm\obj\Debug\quiz programm.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\quiz programm\quiz programm\obj\Debug\quiz programm.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\quiz programm\quiz programm\obj\Debug\quiz programm.exe
+C:\Users\LENOVO\source\repos\quiz programm\quiz programm\obj\Debug\quiz programm.pdb
