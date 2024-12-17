@@ -11,4 +11,6 @@ it has been done using IF statments and another one using Switch case
   3. Cd to if else and switch cases folder
   4. to use the if else program make sure you comment out the mian method in switch case file and vice versa to use the switch case program
   5. finally run the project
+# Note
+to see which is better between both methods please read the text.txt file inside the folder
 # Happy coding 😊
